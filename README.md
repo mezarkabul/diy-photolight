@@ -8,4 +8,5 @@ I write a menu design for ardunino nano, 128*64 OLED and rotary encoder, there a
 
 
 
-Support Me // paypal.me/alifatihdemir
+Support Me!
+[paypal.me/alifatihdemir](https://www.paypal.com/paypalme/alifatihdemir)
